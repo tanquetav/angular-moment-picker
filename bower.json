@@ -6,8 +6,8 @@
   ],
   "description": "Angular Moment Picker is an AngularJS directive for date and time picker using Moment.js",
   "main": [
-    "dist/angular-moment-picker.min.js",
-    "dist/angular-moment-picker.min.css"
+    "dist/angular-moment-picker.js",
+    "dist/angular-moment-picker.css"
   ],
   "keywords": [
     "datepicker",
